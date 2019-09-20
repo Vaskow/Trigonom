@@ -1,0 +1,27 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Trigonom\Trigonom\bin\Debug\Trigonom.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Trigonom\Trigonom\bin\Debug\Trigonom.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Trigonom\Trigonom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Trigonom\Trigonom\obj\x86\Debug\Trigonom.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Trigonom\Trigonom\obj\x86\Debug\Trigonom.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Trigonom\Trigonom\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Trigonom\Trigonom\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Trigonom\Trigonom\obj\x86\Debug\Trigonom.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Trigonom\Trigonom\obj\x86\Debug\Trigonom.pdb
+G:\Trigonom\Trigonom\bin\Debug\Trigonom.exe
+G:\Trigonom\Trigonom\bin\Debug\Trigonom.pdb
+G:\Trigonom\Trigonom\obj\x86\Debug\Trigonom.csprojAssemblyReference.cache
+G:\Trigonom\Trigonom\obj\x86\Debug\Trigonom.Form1.resources
+G:\Trigonom\Trigonom\obj\x86\Debug\Trigonom.Properties.Resources.resources
+G:\Trigonom\Trigonom\obj\x86\Debug\Trigonom.csproj.GenerateResource.cache
+G:\Trigonom\Trigonom\obj\x86\Debug\Trigonom.csproj.CoreCompileInputs.cache
+G:\Trigonom\Trigonom\obj\x86\Debug\Trigonom.exe
+G:\Trigonom\Trigonom\obj\x86\Debug\Trigonom.pdb
+C:\Users\Vlad_PC\Desktop\Trigonom\Trigonom\bin\Debug\Trigonom.exe
+C:\Users\Vlad_PC\Desktop\Trigonom\Trigonom\bin\Debug\Trigonom.pdb
+C:\Users\Vlad_PC\Desktop\Trigonom\Trigonom\obj\x86\Debug\Trigonom.csprojAssemblyReference.cache
+C:\Users\Vlad_PC\Desktop\Trigonom\Trigonom\obj\x86\Debug\Trigonom.Form1.resources
+C:\Users\Vlad_PC\Desktop\Trigonom\Trigonom\obj\x86\Debug\Trigonom.Properties.Resources.resources
+C:\Users\Vlad_PC\Desktop\Trigonom\Trigonom\obj\x86\Debug\Trigonom.csproj.GenerateResource.cache
+C:\Users\Vlad_PC\Desktop\Trigonom\Trigonom\obj\x86\Debug\Trigonom.csproj.CoreCompileInputs.cache
+C:\Users\Vlad_PC\Desktop\Trigonom\Trigonom\obj\x86\Debug\Trigonom.exe
+C:\Users\Vlad_PC\Desktop\Trigonom\Trigonom\obj\x86\Debug\Trigonom.pdb
